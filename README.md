@@ -50,8 +50,3 @@ Should you be forking this repo then do not forget to star it - <img alt="GitHub
 ## Credits 📍
 * Well, it's all in the commit history 
 Feel free to open pull requests should any be missing.
-
-# Deploy To Heroku
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
